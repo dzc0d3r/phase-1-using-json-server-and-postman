@@ -9,6 +9,21 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "id": 3,
+      "title": "Example Article 3",
+      "content": "This is an example 3."
+    },
+    {
+      "id": 4,
+      "title": "Example Article 4",
+      "content": "This is an example 4."
+    },
+    {
+      "id": 5,
+      "title": "Example Article 5 updated using patch",
+      "content": "This is an example 5."
     }
   ]
 }
